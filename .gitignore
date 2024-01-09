@@ -1,0 +1,8 @@
+.creds
+vector_store/
+data_minimal/*.pdf
+data/*.pdf
+__pycache__/
+.vscode/
+.env
+resumes*
